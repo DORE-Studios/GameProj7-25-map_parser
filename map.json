@@ -1,0 +1,538 @@
+[
+    [
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 9,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 5,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 13,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 5,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 13,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 12,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": {
+                "type": "PLANET",
+                "name": "",
+                "description": ""
+            }
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 9,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 9,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 9,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": {
+                "type": "PLANET",
+                "name": "",
+                "description": ""
+            }
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 5,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 8,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 8,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 3,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 5,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 13,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 5,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 5,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 12,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 7,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 7,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 9,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 8,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 3,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 9,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 1,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 10,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 10,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 3,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 11,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 7,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": {
+                "type": "PLANET",
+                "name": "",
+                "description": ""
+            }
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 6,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 14,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 15,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 7,
+            "faction": null,
+            "landmark": {
+                "type": "PLANET",
+                "name": "",
+                "description": ""
+            }
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        }
+    ],
+    [
+        {
+            "environmentFlags": 4,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 0,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 3,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 3,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        },
+        {
+            "environmentFlags": 2,
+            "faction": null,
+            "landmark": null
+        }
+    ]
+]
