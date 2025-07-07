@@ -1,7 +1,7 @@
 # All image files should be the same size as the width and height specified below.
 # If not, an error will be raised
-WIDTH = 10
-HEIGHT = 10
+WIDTH = 100
+HEIGHT = 100
 
 # The JSON file name/path to save the map data to
 MAP_JSON_FILE = "map.json"
